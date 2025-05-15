@@ -9,8 +9,7 @@ This project showcases a comprehensive suite of machine learning classifiers imp
   - `svm_models.ipynb`: Linear Support Vector Machines
   - `naive_bayes_and_decision_tree.ipynb`: Naïve Bayes and Decision Tree
 - `data/`: CSV datasets (e.g., COVID-19, mushroom, voting records, etc.)
-- `models/`: (Optional) Python modules for algorithm logic
-- `results/`: Placeholder for outputs, confusion matrices, and plots
+- `reports/`: Reports written on results
 
 ## 🔍 Implemented Algorithms
 
